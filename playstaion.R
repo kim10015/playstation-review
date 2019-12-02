@@ -28,5 +28,4 @@ remDr$close()
 All_review
 
 sum(str_count(All_review,'배송'))
-sum(str_count(All_review,'가성비'))
 sum(str_count(All_review,'정품'))
