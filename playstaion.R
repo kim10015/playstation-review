@@ -1,4 +1,4 @@
-library(rvest)ㅣ
+library(rvest)
 library(RSelenium)
 remDr <- remoteDriver(
   remoteServerAddr = "localhost",
